@@ -47,3 +47,6 @@
   padding-left: 2px;
   vertical-align: top;
 }
+.Weather a {
+  text-decoration: none;
+}
